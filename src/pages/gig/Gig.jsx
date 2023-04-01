@@ -11,7 +11,7 @@ const Gig = () => {
           <h1>Iwill create ai generated art for you</h1>
 
           <div className="user">
-            <img src="/img/15.jfif" alt="" className='pp' />
+            <img src="/img/ppp.png" alt="" className='pp' />
             <span>Bapi das</span>
             <div className="stars">
               <img src="/img/19.jfif" alt="" />
@@ -24,9 +24,9 @@ const Gig = () => {
           </div>
 
           <Slider slidesToShow={1} arrowsScroll={1} className="slider">
-            <img src="/img/15.jfif" alt="" />
-            <img src="/img/15.jfif" alt="" />
-            <img src="/img/15.jfif" alt="" />
+            <img src="/img/ppp.png" alt="" />
+            <img src="/img/ppp.png" alt="" />
+            <img src="/img/ppp.png" alt="" />
           </Slider>
           <h2>About This Gig</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis modi, tenetur dolorum commodi perferendis
@@ -43,7 +43,7 @@ const Gig = () => {
           <div className="seller">
             <h2>About The Seller</h2>
             <div className="user">
-              <img src="/img/15.jfif" alt="" />
+              <img src="/img/ppp.png" alt="" />
               <div className="info">
                 <span>Bapi Das</span>
                 <div className="stars">
@@ -97,7 +97,7 @@ const Gig = () => {
             <h2>Reviws</h2>
             <div className="item">
               <div className="user">
-                <img src="/img/15.jfif" alt="" className='pp' />
+                <img src="/img/ppp.png" alt="" className='pp' />
                 <div className="info">
                   <span>Bapi Das</span>
                   <div className="country">
@@ -131,7 +131,7 @@ const Gig = () => {
             <hr />
             <div className="item">
               <div className="user">
-                <img src="/img/15.jfif" alt="" className='pp'/>
+                <img src="/img/ppp.png" alt="" className='pp'/>
                 <div className="info">
                   <span>Bapi Das</span>
                   <div className="country">
@@ -165,7 +165,7 @@ const Gig = () => {
             <hr />
             <div className="item">
               <div className="user">
-                <img src="/img/15.jfif" alt="" className='pp' />
+                <img src="/img/ppp.png" alt="" className='pp' />
                 <div className="info">
                   <span>Bapi Das</span>
                   <div className="country">

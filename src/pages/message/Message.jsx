@@ -12,7 +12,7 @@ const Message = () => {
         <div className="messages">
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -24,7 +24,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+             src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -36,7 +36,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -48,7 +48,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -60,7 +60,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -72,7 +72,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -84,7 +84,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -96,7 +96,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-             src="/img/15.jfif"
+             src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -108,7 +108,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-          src="/img/15.jfif"
+          src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -120,7 +120,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -132,7 +132,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -144,7 +144,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-             src="/img/15.jfif"
+             src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -156,7 +156,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -168,7 +168,7 @@ const Message = () => {
           </div>
           <div className="item owner">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
@@ -180,7 +180,7 @@ const Message = () => {
           </div>
           <div className="item">
             <img
-              src="/img/15.jfif"
+              src="/img/ppp.png"
               alt=""
             />
             <p>
